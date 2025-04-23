@@ -9,11 +9,14 @@ Welcome to my GitHub profile! I’m passionate about building clean, responsive,
 🛢️ Databases: MySQL
 📚 Libraries: Pandas
 🌟 Featured Projects
-Django Authentication System
+
+
+1. Django Authentication System
 
 Tools: Python (Django), MySQL, HTML, CSS
 A secure user authentication system with login, registration, and password recovery.
-Taskmaster (To-Do List)
+
+2. Taskmaster (To-Do List)
 
 Tools: Django, HTML, CSS, MySQL
 A simple yet powerful to-do list app for tracking daily tasks.
@@ -21,11 +24,13 @@ Hairstyle and Haircare Blog
 
 Tools: HTML, CSS, Basic JavaScript
 A stylish blog showcasing various hairstyles and haircare tips.
-Blog Application
+
+3. Blog Application
 
 Tools: HTML, CSS, Django, MySQL
 A dynamic blog platform where users can create and comment on blog posts, with a trending blogs section.
-E-commerce Website
+
+4. E-commerce Website
 
 Frontend: ThemeWagon template (HTML, CSS)
 Backend: Django, MySQL
