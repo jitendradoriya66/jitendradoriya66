@@ -44,6 +44,6 @@ Libraries: Pandas
 I’m constantly enhancing my skills and exploring new technologies. My focus lies in mastering web development — combining frontend design with powerful backend logic to create impactful applications.
 
 📬 Connect with Me
-Instagram: CodeWith_jd
+
 LinkedIn: Jitendra Doriya
 GitHub: jitendradoriya66
