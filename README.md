@@ -33,38 +33,38 @@ Understand how HTML & CSS work to structure and style web pages.
 Tech: Python (Pandas, Matplotlib), Excel
 Analyzed HR data to explore employee demographics, department-wise distributions, salary, performance trends, and hire patterns. Generated visual reports and Excel outputs for actionable insights.
 
+
 ✅ 2. NewTube(YouTube-like Video Platform)
 Tech: Django, MySQL, HTML, CSS
 A fully functional video-sharing platform where users can:
-
 Upload & watch videos
-
 Like, comment, and subscribe to channels
-
 View trending videos
-
 Search and filter by category
-
 Edit user profiles and view personal details
-
 Pagination for video lists
+
 
 ✅ 3. Django Authentication System
 Tech: Django, MySQL, HTML, CSS
 User signup, login, password recovery (OTP), and session-based authentication.
 
+
 ✅ 4. Taskmaster – To-Do List App
 Tech: Django, HTML, CSS, MySQL
 Task management system with CRUD functionality and user authentication.
+
 
 ✅ 5. Blog Application
 Tech: Django, MySQL, HTML, CSS
 Post creation, comment system, like/dislike, trending blogs section.
 
+
 ✅ 6. E-commerce Website
 Frontend: HTML, CSS (Theme Based)
 Backend: Django, MySQL
 Product listing, cart system, and integrated blog module.
+
 
 🛠️ Skills
 Category	Tools & Technologies
