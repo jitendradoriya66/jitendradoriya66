@@ -1,49 +1,57 @@
 🌟 Hi there! I'm Jitendra Doriya
-Full Stack Developer
+💻 Full Stack Developer & Aspiring Data Professional
 
-Welcome to my GitHub profile! I’m passionate about building clean, responsive, and user-friendly websites. My focus is on developing functional web applications using modern technologies.
+I am interested in data-driven and technology-focused fields and currently pursuing my Master’s in Data Science (MSCDS). Along with my studies, I am working in a back-office role, which is helping me understand real-world business processes, documentation, and data handling.
+
+I enjoy building user-friendly web applications and developing solutions that connect data, programming, and problem-solving.
 
 🚀 What I Do
-🌐 Frontend Development: HTML, CSS, Basic JavaScript
-🏗️ Backend Development: Python (Django)
-🛢️ Databases: MySQL
-📚 Libraries: Pandas
+
+🔹 Frontend Development: HTML, CSS, Basic JavaScript
+🔹 Backend Development: Python (Django)
+🔹 Databases: MySQL, MongoDB
+🔹 Python for Data: Pandas, NumPy, Matplotlib
+
 🌟 Featured Projects
+✅ 1. Django Authentication System
 
+Tech: Django, MySQL, HTML, CSS
+A secure authentication system with user signup, login, password recovery, and session-based access.
 
-1. Django Authentication System
+✅ 2. Taskmaster (To-Do List App)
 
-Tools: Python (Django), MySQL, HTML, CSS
-A secure user authentication system with login, registration, and password recovery.
+Tech: Django, HTML, CSS, MySQL
+A simple and effective task manager to organize daily tasks.
 
-2. Taskmaster (To-Do List)
+✅ 3. Hairstyle & Haircare Blog
 
-Tools: Django, HTML, CSS, MySQL
-A simple yet powerful to-do list app for tracking daily tasks.
-Hairstyle and Haircare Blog
+Tech: HTML, CSS, JavaScript
+A simple blog showcasing hairstyle ideas, tips, and haircare content.
 
-Tools: HTML, CSS, Basic JavaScript
-A stylish blog showcasing various hairstyles and haircare tips.
+✅ 4. Blog Application
 
-3. Blog Application
+Tech: Django, MySQL, HTML, CSS
+A dynamic blog with post creation, comments, and a trending-blogs section.
 
-Tools: HTML, CSS, Django, MySQL
-A dynamic blog platform where users can create and comment on blog posts, with a trending blogs section.
+✅ 5. E-commerce Website
 
-4. E-commerce Website
-
-Frontend: ThemeWagon template (HTML, CSS)
+Frontend: ThemeWagon Template (HTML, CSS)
 Backend: Django, MySQL
-A dynamic e-commerce platform with product listings, cart functionality, and blog integration.
+A functional e-commerce platform with product listing, cart system, and blog.
+
 🛠️ Skills
-Frontend: HTML, CSS, Basic JavaScript
-Backend: Python (Django)
-Databases: MySQL
-Libraries: Pandas
+Category	Tools & Technologies
+Frontend	HTML, CSS, JavaScript (Basic)
+Backend	Python (Django)
+Databases	MySQL, MongoDB
+Python for Data	Pandas, NumPy, Matplotlib
+Currently Learning	Data Science, AI & ML
 📚 My Learning Journey
-I’m constantly enhancing my skills and exploring new technologies. My focus lies in mastering web development — combining frontend design with powerful backend logic to create impactful applications.
+
+I am continuously learning and building projects to strengthen both Full-Stack Development and Data Science skills.
+My future goal is to grow in the field of Data Science, with a strong focus on AI & Machine Learning.
 
 📬 Connect with Me
 
-LinkedIn: Jitendra Doriya
-GitHub: jitendradoriya66
+🔗 LinkedIn: Jitendra Doriya
+💻 GitHub: jitendradoriya66
