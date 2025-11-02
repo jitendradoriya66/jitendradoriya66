@@ -11,8 +11,6 @@ I enjoy working at the intersection of data, backend development, and problem-so
 
 Python (Django)
 
-REST APIs
-
 MVC Architecture
 
 🎯 Data Analytics & Data Science Skills
@@ -21,7 +19,7 @@ Python for Data: Pandas, NumPy, Matplotlib
 
 Data Cleaning, Analysis & Visualization
 
-Excel (Advanced)
+Excel
 
 Databases: MySQL, MongoDB
 
